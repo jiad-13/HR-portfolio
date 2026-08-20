@@ -16,7 +16,7 @@ employee engagement strategy and employer branding research.
 
 | Category | Tools |
 |---|---|
-| Data & Analytics | Power BI (Intermediate), Excel (Intermediate), Python (Basic), Google Analytics |
+| Data & Analytics | Power BI (Intermediate), Excel (Advanced), Python (Basic), Google Analytics |
 | HR Systems | HRIS, Payroll Processing, Attendance & Compliance Auditing |
 | Productivity | G-Suite, Canva |
 
